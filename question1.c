@@ -21,8 +21,4 @@ int main()
     printf("Hash Value: %lld", computeHash(s));
     return 0;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+
